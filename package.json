@@ -1,0 +1,23 @@
+{
+  "name": "@m1yh3m/all-interfaces.nix.node.sh",
+  "version": "1.0.0",
+  "description": "All interfaces in linux/mac machines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1yh3m/all-interfaces.nix.node.sh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1yh3m/all-interfaces.nix.node.sh/issues"
+  },
+  "homepage": "https://github.com/m1yh3m/all-interfaces.nix.node.sh#readme",
+  "bin": {
+    "alin": "index.js"
+  }
+}
